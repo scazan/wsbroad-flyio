@@ -1,3 +1,10 @@
+this fork simply adds in the components from the fly.io Rust deployment example at https://github.com/fly-apps/hello-rust
+
+for a simple deployment of this websocket broadcaster, install the flyio command line tool and then run:
+```
+fly launch
+```
+
 # wsbroad
 Simple websocket broadcaster implemented in Rust
 
